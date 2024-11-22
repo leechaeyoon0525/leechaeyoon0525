@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Chaeyoon's%20GITHUB&textBg=false)
+
 # 🌟 About Me
 
 안녕하세요! 저는 **이채윤**입니다.  
@@ -88,3 +90,9 @@
   오소소
   <a href="https://youtube.com/@ossosso0326?si=LnENaAXVI1ZXZebm" target="_blank">[링크]</a>
 </p>
+
+
+<br><br>
+
+
+![Chaeyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechaeyoon0525&show_icons=true&theme=apprentice)
