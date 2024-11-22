@@ -34,6 +34,10 @@
   <img src="https://github.com/user-attachments/assets/03d3e25e-aae6-4c6f-b70c-527062d4b5ce" width="150" />
 </p>
 
+<br>
+
+📌 **목표** 
+
 
 <br><br>
 
