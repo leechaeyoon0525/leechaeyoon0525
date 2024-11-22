@@ -17,6 +17,12 @@
 - 🎥 **컨퍼런스 2기**: 뮤직비디오 '이번 역은 찬란역입니다' 제작 및 전시  
 - 🎨 **시나브로**: 예술공학대학 학술동아리 '시나브로' 차장으로 활동. '제3회 메타버스 서울 3D 모델링 공모전' 및 '백억커피 공모전' 출품  
 - 🎪 **학교 학생회 활동**: 2024년 3월부터 11월까지 예술공학대학 제6대 학생회 '윤슬' 기획국원으로 활동
+<p>
+  <img src="https://github.com/user-attachments/assets/5355c45a-7309-4804-a51a-9f0ab742fcc4" width="150" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/2b042924-a0de-496f-a5d1-1b56f4db8ad2" width="150" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/b1709531-eb52-48a1-a6c2-66c0cc21db49" width="150" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/03d3e25e-aae6-4c6f-b70c-527062d4b5ce" width="150" />
+</p>
 
 
 <br><br>
