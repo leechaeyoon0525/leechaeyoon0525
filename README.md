@@ -37,7 +37,8 @@
 <br>
 
 📌 **목표** 
-
+- 더 많은 전시 및 기획에 참여
+- C4D 등 툴 공부를 통한 실력 향상상
 
 <br><br>
 
@@ -68,32 +69,40 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  @chaeyoon1202
-  <a href="https://www.instagram.com/chaeyoon1202/profilecard/?igsh=MWgzYXlybW0xejI5Ng==" target="_blank">[링크]</a>
+  <a href="https://www.instagram.com/chaeyoon1202/profilecard/?igsh=MWgzYXlybW0xejI5Ng==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+    @chaeyoon1202
+  </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white"/>
-  9781yoon@naver.com
+  <a href="mailto:9781yoon@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white"/>
+    9781yoon@naver.com
+  </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  9781yoon@gmail.com
+  <a href="mailto:9781yoon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+    9781yoon@gmail.com
+  </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
-  이채윤
-  <a href="https://youtube.com/channel/UCB2Nm5Dva5FVxAxoVLuK_nQ?si=TtdBUtjAFdHR9-So" target="_blank">[링크]</a>
+  <a href="https://youtube.com/channel/UCB2Nm5Dva5FVxAxoVLuK_nQ?si=TtdBUtjAFdHR9-So" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
+    이채윤
+  </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
-  오소소
-  <a href="https://youtube.com/@ossosso0326?si=LnENaAXVI1ZXZebm" target="_blank">[링크]</a>
+  <a href="https://youtube.com/@ossosso0326?si=LnENaAXVI1ZXZebm" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
+    오소소
+  </a>
 </p>
+
 
 
 <br><br>
