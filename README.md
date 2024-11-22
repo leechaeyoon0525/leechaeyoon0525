@@ -99,4 +99,11 @@
 <br><br>
 
 
-![Chaeyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechaeyoon0525&show_icons=true&theme=apprentice)
+# 📊 My GitHub Stats & Profile Visitors(Hits)
+
+![Chaeyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechaeyoon0525&show_icons=true&theme=apprentice)  
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleechaeyoon0525%2Fleechaeyoon0525.git&count_bg=%238994F5&title_bg=%23909090&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" 
+         alt="hits" width="150" height="37.5"/>
+  </a>
+</p>
