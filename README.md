@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Chaeyoon's%20GITHUB&textBg=false)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=3000&color=6987F7&width=780&height=200&lines=Hello!+Welcome+to+my+GitHub.+Thanks+for+stopping+by.)](https://git.io/typing-svg)
+
 # 🌟 About Me
 
 안녕하세요! 저는 **이채윤**입니다.  
@@ -38,7 +40,7 @@
 
 📌 **목표** 
 - 더 많은 전시 및 기획에 참여
-- C4D 등 툴 공부를 통한 실력 향상상
+- C4D 등 툴 공부를 통한 실력 향상
 
 <br><br>
 
@@ -68,40 +70,55 @@
   다양한 프로젝트에서 함께 성장할 파트너를 찾고 있습니다.  
 </p>
 
+<!-- 아이콘 영역 -->
 <p>
-  <a href="https://www.instagram.com/chaeyoon1202/profilecard/?igsh=MWgzYXlybW0xejI5Ng==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-    @chaeyoon1202
+  <a href="mailto:9781yoon@naver.com" target="_blank">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white" alt="Naver" />
   </a>
+  <span class="hidden-text" id="naver-text">9781yoon@naver.com</span>
 </p>
 
 <p>
-  <a href="mailto:9781yoon@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white"/>
-    9781yoon@naver.com
+  <a href="mailto:9781yoon@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
-
-<p>
-  <a href="mailto:9781yoon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-    9781yoon@gmail.com
-  </a>
+  <span class="hidden-text" id="gmail-text">9781yoon@gmail.com</span>
 </p>
 
 <p>
   <a href="https://youtube.com/channel/UCB2Nm5Dva5FVxAxoVLuK_nQ?si=TtdBUtjAFdHR9-So" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
-    이채윤
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube 이채윤" />
   </a>
 </p>
 
 <p>
   <a href="https://youtube.com/@ossosso0326?si=LnENaAXVI1ZXZebm" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
-    오소소
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube 오소소" />
   </a>
 </p>
+
+<!-- JavaScript -->
+<script>
+  // 이메일 클릭 시 텍스트 보이도록 처리
+  document.querySelectorAll('.hidden-text').forEach((textSpan) => {
+    textSpan.previousElementSibling.addEventListener('click', (event) => {
+      if (!textSpan.previousElementSibling.getAttribute('href')) {
+        event.preventDefault(); // 링크가 없으면 기본 동작 취소
+        textSpan.style.display = 'inline'; // 텍스트 표시
+      }
+    });
+  });
+</script>
+
+<!-- 스타일 -->
+<style>
+  .hidden-text {
+    display: none;
+    margin-left: 10px;
+    color: #333;
+    font-size: 14px;
+  }
+</style>
 
 
 
