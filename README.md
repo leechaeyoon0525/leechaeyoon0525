@@ -40,11 +40,15 @@
 
 <p>
   <img src="https://img.shields.io/badge/Cinema4D-011A6A?style=flat&logo=cinema4d&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maya-00C4CC?style=flat&logo=autodesk&logoColor=white"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maya-37A5CC?style=flat&logo=autodeskmaya&logoColor=white"/>
 </p>
 
 
@@ -52,6 +56,10 @@
 
 
 # 📬 Contact
+<p>
+  협업 및 문의 사항은 아래 이메일 혹은 SNS로 편하게 연락주세요! 😊 <br>
+  다양한 프로젝트에서 함께 성장할 파트너를 찾고 있습니다.  
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
